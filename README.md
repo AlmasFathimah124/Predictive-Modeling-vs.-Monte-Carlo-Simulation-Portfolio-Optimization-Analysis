@@ -1,0 +1,2 @@
+# Predictive-Modeling-vs.-Monte-Carlo-Simulation-Portfolio-Optimization-Analysis
+This project analyzes portfolio optimization strategies using Linear Regression, LSTM models, and Monte Carlo Simulation. Key techniques include mean-variance optimization, Sharpe ratio maximization, CAPM analysis, and risk assessment with VaR and CVaR. Predictive models are compared against actual market data to evaluate performance.
